@@ -5,4 +5,3 @@ module.exports = {
   PORT,
   sequelizeConnection
 }
-// postgres://xbsrwqzz:Y9OmnW4g0AhKIWZGLW49FavzMbDk5U9v@arjuna.db.elephantsql.com/xbsrwqzz
